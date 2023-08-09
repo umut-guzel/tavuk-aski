@@ -1,0 +1,77 @@
+/* General Settings Start Here*/
+
+body
+{
+    background-color:white;
+}
+
+*
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container
+{
+    height:910px;
+    width: 90%;
+}
+
+/* General Settings End Here*/
+
+/*Navbar Settings Start Here*/
+
+.nav
+{
+    height: 50px;
+    width: 100%;
+    margin-top: 40px;
+}
+
+.nav > ul
+{
+    height: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+.nav > ul > li
+{
+    list-style: none;
+    display: inline;
+}
+
+.nav > ul > li > a
+{
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    margin:10px;
+    padding:10px;
+}
+
+/*Navbar Settings End Here*/
+
+/*Content Settings Start Here*/
+
+.address
+{
+    text-align: center;
+    margin-top: 5px;
+}
+
+.row-1
+{
+    height: 340px;
+}
+
+.card
+{
+    height: 205px;
+    width: 45%;
+    border-color: black;
+    margin: auto;
+    margin-top: 55px;
+}
+
+/*Content Settings End Here*/
